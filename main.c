@@ -110,7 +110,7 @@ void delete_element()
                 arr[j] = arr[j + 1];
             }
             i--;
-            printf("begning element deleted from an array succusfully!!\n");
+            printf("begning element deleted from an array success!!\n");
         }
         else
         {
