@@ -98,7 +98,7 @@ void delete_element()
         }
         else
         {
-            printf("Array is Empty\n");
+            printf("Array is empty\n");
         }
     }
     else if (choice == 2)
